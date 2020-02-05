@@ -116,9 +116,9 @@
 
 
 
-    <gap:plugin name="phonegap-plugin-push" source="npm" spec="2.1.2">
+   <!-- <gap:plugin name="phonegap-plugin-push" source="npm" spec="2.1.2">
         <param name="SENDER_ID" value="584246405361" />
-    </gap:plugin>
+    </gap:plugin>-->
 
     <gap:plugin name="cordova-plugin-actionsheet" source="npm" />
     <gap:plugin name="cordova-plugin-x-socialsharing" source="npm" spec="5.4.1" />
